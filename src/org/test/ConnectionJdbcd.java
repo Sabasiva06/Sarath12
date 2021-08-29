@@ -33,6 +33,9 @@ public class ConnectionJdbcd {
 		}
 
 		connection.close();
+		System.out.println("AA");
+		System.out.println("BB");
+		System.out.println("CC");
 	}
 
 }
