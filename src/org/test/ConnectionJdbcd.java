@@ -33,6 +33,10 @@ public class ConnectionJdbcd {
 		}
 
 		connection.close();
+		System.out.println("DD");
+		System.out.println("EE");
+		System.out.println("FF");
+		System.out.println("GG");
 	}
 
 }
